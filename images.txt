@@ -1,3 +1,6 @@
+nginx
 redis
-mongo
---platform=Windows/x64
+mongdb
+#支持私库
+#支持指定架构
+--platform=linux/arm64
